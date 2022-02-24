@@ -1,0 +1,5 @@
+Avada Theme Submenu Not Working
+
+CSS Code :- #wrapper #main .fullwidth-box .fusion-row {
+z-index: 1 !important;
+}
